@@ -2,3 +2,7 @@
 #demo/** linguist-vendored=false
 
 sql/**/*.sql linguist-detectable=true
+
+*.sql linguist-detectable=true
+*.sql linguist-language=sql
+*.sql text
